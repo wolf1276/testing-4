@@ -1,3 +1,5 @@
 print("i am iron man")
 a=input("enter name")
 print(a)
+print (a)
+print("computer")
